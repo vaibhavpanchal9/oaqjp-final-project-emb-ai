@@ -1,7 +1,6 @@
-# github-final-project-emotion-detector-app
+# Emotion Detection Application
 
-
-This project is an AI-based emotion detection web application using IBM Watson NLP.
+This is the Project for the AI-based Emotion Detection application using IBM Watson NLP.
 
 ## Features
 - Detects emotions from text
